@@ -1,0 +1,239 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+]
+/Count 1
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20160302184656+01'00')
+/ModDate (D:20160302184656+01'00')
+/Title (CV d'Antoine Martin au format A4)
+/Subject (Retrouvez le CV au format A4 d'Antoine Martin. Formation, expériences, compétences, consultez le profil professionnel d'Antoine Martin.)
+/Keywords (Antoine Martin, Webmaster, CV A4, téléchargement du CV, impression du CV, curriculum vitae, recrutement, emploi)
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 11 0 R ]
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 6598 >>
+stream
+
+0.800 0.800 0.800 rg
+0.800 0.800 0.800 RG
+34.016 610.973 m 577.984 610.973 l 577.984 611.723 l 34.016 611.723 l  f
+34.016 612.473 m 577.984 612.473 l 577.984 613.223 l 34.016 613.223 l  f
+1.000 0.675 0.000 rg
+BT 34.016 617.519 Td /F1 9.6 Tf  [(Expériences professionnelles)] TJ ET
+1.000 0.482 0.000 rg
+BT 34.016 597.332 Td /F2 8.4 Tf  [(Aout 2015 - Aout 2016)] TJ ET
+0.200 0.200 0.200 rg
+BT 59.216 584.570 Td /F3 8.4 Tf  [(Développeur web)] TJ ET
+BT 128.768 584.570 Td /F2 8.4 Tf  [(, )] TJ ET
+BT 133.438 584.570 Td /F2 8.4 Tf  [(C.D.D)] TJ ET
+BT 59.216 571.809 Td /F2 8.4 Tf  [(Kioskemploi)] TJ ET
+BT 104.492 571.809 Td /F2 8.4 Tf  [(, )] TJ ET
+BT 109.162 571.809 Td /F2 8.4 Tf  [(Service informatique)] TJ ET
+BT 185.720 571.809 Td /F2 8.4 Tf  [(, )] TJ ET
+BT 190.390 571.809 Td /F2 8.4 Tf  [(Lyon)] TJ ET
+0.400 0.400 0.400 rg
+BT 59.216 559.887 Td /F2 8.4 Tf  [(Développement de modules en PHP5 pour les logiciels principaux de Kioskemploi: Gestmax et Robopost. Mise en place de passerelles )] TJ ET
+BT 59.216 550.485 Td /F2 8.4 Tf  [(\(API soap/REST\) et ajout de fonctionnalités aux logiciels.)] TJ ET
+1.000 0.482 0.000 rg
+BT 34.016 536.134 Td /F2 8.4 Tf  [(Juillet 2012 - Septembre 2014)] TJ ET
+0.200 0.200 0.200 rg
+BT 59.216 523.372 Td /F3 8.4 Tf  [(Développeur web en Freelance)] TJ ET
+BT 59.216 510.610 Td /F2 8.4 Tf  [(Creads et Blessia)] TJ ET
+BT 125.038 510.610 Td /F2 8.4 Tf  [(, )] TJ ET
+BT 129.709 510.610 Td /F2 8.4 Tf  [(Internet / Multimédia)] TJ ET
+BT 205.804 510.610 Td /F2 8.4 Tf  [(, )] TJ ET
+BT 210.475 510.610 Td /F2 8.4 Tf  [(Lyon)] TJ ET
+0.400 0.400 0.400 rg
+BT 59.216 498.688 Td /F2 8.4 Tf  [(Intégration HTML5/CSS3. Mise en place de serveurs EC2. Utilisation de l’API Mws d’Amazon. Développement et gestion du back-end en )] TJ ET
+BT 59.216 489.287 Td /F2 8.4 Tf  [(Python et PHP.  )] TJ ET
+1.000 0.482 0.000 rg
+BT 34.016 474.935 Td /F2 8.4 Tf  [(Juillet 2013 - Septembre 2013)] TJ ET
+0.200 0.200 0.200 rg
+BT 59.216 462.173 Td /F3 8.4 Tf  [(Développeur web )] TJ ET
+BT 131.103 462.173 Td /F2 8.4 Tf  [(, )] TJ ET
+BT 135.773 462.173 Td /F2 8.4 Tf  [(Stage)] TJ ET
+BT 59.216 449.412 Td /F2 8.4 Tf  [(Plebicom)] TJ ET
+BT 93.757 449.412 Td /F2 8.4 Tf  [(, )] TJ ET
+BT 98.427 449.412 Td /F2 8.4 Tf  [(Internet / Multimédia)] TJ ET
+BT 174.523 449.412 Td /F2 8.4 Tf  [(, )] TJ ET
+BT 179.193 449.412 Td /F2 8.4 Tf  [(Lyon)] TJ ET
+0.400 0.400 0.400 rg
+BT 59.216 437.490 Td /F2 8.4 Tf  [(Création et mise en place d’une API RESTful. Développement de modules back et front-end en Java J2EE/JSP. )] TJ ET
+1.000 0.482 0.000 rg
+BT 34.016 423.138 Td /F2 8.4 Tf  [(Novembre 2011 - Janvier 2012)] TJ ET
+0.200 0.200 0.200 rg
+BT 59.216 410.377 Td /F3 8.4 Tf  [(Développeur Web)] TJ ET
+BT 130.162 410.377 Td /F2 8.4 Tf  [(, )] TJ ET
+BT 134.833 410.377 Td /F2 8.4 Tf  [(Stage)] TJ ET
+BT 59.216 397.615 Td /F2 8.4 Tf  [(zePASS)] TJ ET
+BT 90.497 397.615 Td /F2 8.4 Tf  [(, )] TJ ET
+BT 95.168 397.615 Td /F2 8.4 Tf  [(Développement web)] TJ ET
+BT 171.734 397.615 Td /F2 8.4 Tf  [(, )] TJ ET
+BT 176.404 397.615 Td /F2 8.4 Tf  [(Internet / Multimédia)] TJ ET
+BT 252.500 397.615 Td /F2 8.4 Tf  [(, )] TJ ET
+BT 257.170 397.615 Td /F2 8.4 Tf  [(Lyon)] TJ ET
+0.400 0.400 0.400 rg
+BT 59.216 385.693 Td /F2 8.4 Tf  [(Développement de modules back et front en PHP5.  Intégration xHTML/CSS)] TJ ET
+0.800 0.800 0.800 rg
+34.016 357.893 m 577.984 357.893 l 577.984 358.643 l 34.016 358.643 l  f
+34.016 359.393 m 577.984 359.393 l 577.984 360.143 l 34.016 360.143 l  f
+1.000 0.675 0.000 rg
+BT 34.016 364.439 Td /F1 9.6 Tf  [(Formation)] TJ ET
+1.000 0.482 0.000 rg
+BT 34.016 344.251 Td /F2 8.4 Tf  [(2012-2015)] TJ ET
+0.200 0.200 0.200 rg
+BT 59.216 331.490 Td /F3 8.4 Tf  [(université Lyon 1 - Claude Bernard)] TJ ET
+BT 59.216 318.728 Td /F2 8.4 Tf  [(Master 1)] TJ ET
+BT 91.892 318.728 Td /F2 8.4 Tf  [(, )] TJ ET
+BT 96.562 318.728 Td /F2 8.4 Tf  [(Informatique )] TJ ET
+0.400 0.400 0.400 rg
+BT 59.216 306.806 Td /F2 8.4 Tf  [(Analyse de données, Algorithmique et Programmation Orientée Objet,  Réseaux,  Logique classique)] TJ ET
+1.000 0.482 0.000 rg
+BT 34.016 292.455 Td /F2 8.4 Tf  [(2009-2012)] TJ ET
+0.200 0.200 0.200 rg
+BT 59.216 279.693 Td /F3 8.4 Tf  [(IUT)] TJ ET
+BT 72.748 279.693 Td /F2 8.4 Tf  [(, )] TJ ET
+BT 77.419 279.693 Td /F2 8.4 Tf  [(Institut Universitaire de Technologie, Campus de La doua)] TJ ET
+BT 59.216 266.931 Td /F2 8.4 Tf  [(DUT)] TJ ET
+BT 76.478 266.931 Td /F2 8.4 Tf  [(, )] TJ ET
+BT 81.148 266.931 Td /F2 8.4 Tf  [(Spécialité Informatique)] TJ ET
+0.800 0.800 0.800 rg
+34.016 236.611 m 577.984 236.611 l 577.984 237.361 l 34.016 237.361 l  f
+34.016 238.111 m 577.984 238.111 l 577.984 238.861 l 34.016 238.861 l  f
+1.000 0.675 0.000 rg
+BT 34.016 243.157 Td /F1 9.6 Tf  [(Compétences)] TJ ET
+0.200 0.200 0.200 rg
+BT 59.216 222.970 Td /F3 8.4 Tf  [(Base de données)] TJ ET
+0.400 0.400 0.400 rg
+BT 59.216 211.048 Td /F2 8.4 Tf  [(Oracle, MySQL, Access, SQL Server)] TJ ET
+0.200 0.200 0.200 rg
+BT 59.216 196.696 Td /F3 8.4 Tf  [(Langages web)] TJ ET
+0.400 0.400 0.400 rg
+BT 59.216 184.774 Td /F2 8.4 Tf  [(Php \(Symfony,Zend\), Python, Java J2EE/JSP, HTML5, CSS3, JavaScript \(Jquery, Backbone\), Ajax)] TJ ET
+0.200 0.200 0.200 rg
+BT 59.216 170.423 Td /F3 8.4 Tf  [(Langues)] TJ ET
+0.400 0.400 0.400 rg
+BT 59.216 158.501 Td /F2 8.4 Tf  [(Anglais courant, Voyages occasionels en pays anglophone.)] TJ ET
+0.800 0.800 0.800 rg
+34.016 130.701 m 577.984 130.701 l 577.984 131.451 l 34.016 131.451 l  f
+34.016 132.201 m 577.984 132.201 l 577.984 132.951 l 34.016 132.951 l  f
+1.000 0.675 0.000 rg
+BT 34.016 137.247 Td /F1 9.6 Tf  [(Centres d’intérêt)] TJ ET
+0.200 0.200 0.200 rg
+BT 122.249 117.059 Td /F2 8.4 Tf  [(Organisation et Animation de LAN)] TJ ET
+BT 59.216 117.059 Td /F3 8.4 Tf  [(Jeux en réseau)] TJ ET
+BT 88.624 100.188 Td /F2 8.4 Tf  [(En Compétition Niveau : 15/4)] TJ ET
+BT 59.216 100.188 Td /F3 8.4 Tf  [(Tennis)] TJ ET
+BT 92.354 83.316 Td /F2 8.4 Tf  [(Administration et Gestion d’un site web personnel www.antoine-martin.me)] TJ ET
+BT 59.216 83.316 Td /F3 8.4 Tf  [(Internet)] TJ ET
+0.000 0.000 0.000 rg
+BT 34.016 746.263 Td /F3 12.0 Tf  [(Antoine Martin)] TJ ET
+0.400 0.400 0.400 rg
+BT 34.016 728.011 Td /F2 8.4 Tf  [(Né le 26/04/1990 à Le Port)] TJ ET
+BT 34.016 711.835 Td /F2 8.4 Tf  [(23, rue du docteur Rollet)] TJ ET
+BT 34.016 699.059 Td /F2 8.4 Tf  [(69100 Villeurbanne France)] TJ ET
+BT 34.016 679.166 Td /F2 8.4 Tf  [(Tel. professionnel: 0665563702)] TJ ET
+BT 34.016 659.474 Td /F2 8.4 Tf  [(Email: )] TJ ET
+BT 59.686 659.474 Td /F2 8.4 Tf  [(antoine.martin@etu.univ-lyon1.fr)] TJ ET
+0.400 0.400 0.400 RG
+0.42 w 0 J [  ] 0 d
+59.686 657.794 m 181.192 657.794 l S
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 12 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 59.6861 658.6969 181.1921 667.2439 ]
+>>
+endobj
+12 0 obj
+<< /Type /Action
+/S /URI
+/URI (mailto: antoine.martin@etu.univ-lyon1.fr)
+>>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000294 00000 n 
+0000000323 00000 n 
+0000000750 00000 n 
+0000000832 00000 n 
+0000007482 00000 n 
+0000007591 00000 n 
+0000007698 00000 n 
+0000007811 00000 n 
+0000007938 00000 n 
+trailer
+<<
+/Size 13
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+8031
+%%EOF
