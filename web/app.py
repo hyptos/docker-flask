@@ -8,13 +8,13 @@ app = Flask(__name__)
 def home():
     return render_template('index.html', title='Home')
 
-@app.route('/contact', methods=['POST'])
+@app.route('/contact', methods=['GET', 'POST'])
 def contact():
     strMessage 	= request.form['message']
     strName 	= request.form['name']
     strEmail 	= request.form['email']   
-    s 		= smtplib.SMTP('localhost')
-    s.sendmail("hyptos974@gmail.com", strEmail, strMessage)
+    s = smtplib.SMTP('localhost')
+    s.sendmail("supermail@mailfai.com", strEmail, strMessage)
     s.quit()
     return "Your message has been sent !"
 
